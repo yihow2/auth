@@ -1,1 +1,5 @@
-32CDB7D0=9319
+FC34970DCA97=9279 // 2025년 5월 4일
+
+[피시_맥주소]
+[인증값] >= ([now_year00]*365)+([now_month00]*30)+[now_day00]
+https://docs.google.com/uc?export=download&id=1SKOW6k12m364KbLAyv7cjziPoMagVT6d
